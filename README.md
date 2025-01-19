@@ -1,5 +1,11 @@
 # संवाद AI: Intelligent Docs Interaction 💬📚
 
+
+
+https://github.com/user-attachments/assets/3a9ee971-62ad-4f36-be71-d4d7a0bb1ca6
+
+
+
 ## Overview
 **संवाद AI** is a Streamlit-based application designed for intelligent interaction with PDF documents. This project leverages advanced language models and Google Generative AI to provide detailed answers to user queries in both English and Nepali. Key features include:
 
