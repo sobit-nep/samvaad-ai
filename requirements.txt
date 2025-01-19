@@ -1,0 +1,15 @@
+streamlit 
+google-generativeai 
+python-dotenv 
+langchain 
+PyPDF2 
+chromadb 
+faiss-cpu 
+langchain_google_genai
+langchain-community
+dateparser 
+validators
+parsedatetime
+indic-transliteration 
+googletrans==4.0.0-rc1
+langdetect
